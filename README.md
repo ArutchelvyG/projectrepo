@@ -7,3 +7,6 @@ This module involves 'Introduction to Git'. The following lists various commands
 
    3. To add multiple files to git repository.
 		git add .
+		
+   4. To create new branch
+		git branch <branchname>
