@@ -10,3 +10,6 @@ This module involves 'Introduction to Git'. The following lists various commands
 		
    4. To create new branch
 		git branch <branchname>
+
+   5. To checkout a branch
+      	git checkout <branchname>
