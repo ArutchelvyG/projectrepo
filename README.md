@@ -13,3 +13,6 @@ This module involves 'Introduction to Git'. The following lists various commands
 
    5. To checkout a branch
       	git checkout <branchname>
+
+   6. To commit the changes to git
+		git commit -m "<commit message>"
